@@ -7,3 +7,4 @@ Tema 3 este o adaptare la tema 2. Am adaugat clasa template<class T> client, und
   Clasa contract este abstracta, iar clasa ContractFactory are o functie statica ce creaza diferite contracte la fiecare client.
   Am pastrat clientii de date in 2 baze de date, 2 vectori de tip client<Card_Standard> si client<Card_Premium>.
   Pentru a selecta fluxul de testare pentru tema 3 se apasa tasta 2. Iar codul de autentificare va fi tot timpul 0.
+Programul se poate rula si din terminal.
